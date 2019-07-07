@@ -8,7 +8,7 @@ Featurs Of This App:
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Movie-viewer uses a number of open source projects to work properly:
 
 * [Node.js]
 * [Jade Template]
