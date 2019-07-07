@@ -12,10 +12,10 @@ Dillinger uses a number of open source projects to work properly:
 
 * [Node.js]
 * [Jade Template]
-* [Express] - Markdown parser done right. Fast and easy to extend.
-* [npm] - great UI boilerplate for modern web apps
-* [request] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Express]
+* [npm]
+* [request]
+* [Express]
 
 ### Installation
 
@@ -46,7 +46,7 @@ $ npm run start
 ```
 
 ### Docker
-Dillinger is very easy to install and deploy in a Docker container.
+Movie-viewer is very easy to install and deploy in a Docker container.
 
 By default, the Docker will expose port 3000, .
 
