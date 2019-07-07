@@ -25,6 +25,7 @@ First Grab an api key from
 https://www.themoviedb.org/documentation/api?language=en-US
 ```
 and replace here 
+<br/>
 <img src="https://github.com/lakith/movie-viewer/blob/master/public/images/Capture6.PNG?raw=true" alt ="home page" />
 
 <br/>
